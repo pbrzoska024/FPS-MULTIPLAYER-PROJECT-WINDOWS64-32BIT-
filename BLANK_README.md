@@ -137,11 +137,11 @@ So you got to change your position and take shots quickly in order to win.
 *[Deathmatch]Get 10 kills in order to win the game.
 
 ### Hitmark System
-*[Deathmatch]headshot-[100]hp
-*[Deathmatch]upper body-[65-75]hp
-*[Deathmatch]torso-[50-60]hp
-*[Deathmatch]arms/legs-[25-30]hp
-*[Deathmatch]foot/fingers-[10-15]hp
+* [Deathmatch]headshot-[100]hp
+* [Deathmatch]upper body-[65-75]hp
+* [Deathmatch]torso-[50-60]hp
+* [Deathmatch]arms/legs-[25-30]hp
+* [Deathmatch]foot/fingers-[10-15]hp
 
 *probably will chenge after the testing ends*
 
