@@ -97,8 +97,7 @@ Cyberpunk style arena with main place, 4 respawn locations and an underground tu
 
 
 ### Movement
-<gif src="images/GAME.png">
-
+![](images/GAME.gif)
 ### Shooting
 
 
