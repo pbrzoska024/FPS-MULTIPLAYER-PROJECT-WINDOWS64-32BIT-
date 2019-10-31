@@ -17,7 +17,7 @@
   <h3 align="center">FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-</h3>
 
   <p align="center">
-   R E A DM E
+   R E A D M E
 
 
 
@@ -26,6 +26,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+  * [Current Status](#current-stats)
 * [MAP](#map)
   * [Scrennshots](#Scrennshots)
   * [Installation](#installation)
@@ -40,9 +41,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+First person shooter game which can handle multiplayer match with at least 2 online players.
 
+*server/client game structure, player number depend on map size and main game mode*
 
-
+Main game modes are going  to change.
 
 ### Built {mostly} With
 
@@ -54,6 +57,15 @@
 
 *May change in the future so there is no need to write every pack or asset*
 
+### Current Build Status
+
+*13.09.2019 <-- Building main game mechanics    -->19.10.2019
+*19.10.2019 <-- Building first map   -->26.10.2019
+*26.10.2019 <-- Fixing server/client bugs   -->30.10.2019
+*30.10.2019 <-- Testing  -->??.10.2019
+
+
+*First playable build is going to drop this week*
 
 <!-- GETTING STARTED -->
 ## Map
