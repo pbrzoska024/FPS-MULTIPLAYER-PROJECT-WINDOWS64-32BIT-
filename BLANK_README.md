@@ -27,7 +27,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [MAP](#map)
-  * [Prerequisites](#prerequisites)
+  * [Scrennshots](#Scrennshots)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
@@ -58,9 +58,10 @@
 <!-- GETTING STARTED -->
 ## Map
 
-To get a local copy up and running follow these simple steps.
+Cyberpunk style arena with main place, 4 respawn locations and an underground tunnel.
 
-### Prerequisites
+
+### Scrennshots
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
