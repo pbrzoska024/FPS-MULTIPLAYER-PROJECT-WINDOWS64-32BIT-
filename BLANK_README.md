@@ -34,7 +34,7 @@
   * [ADS](#ADS)
 * [Side Game Mode Mechanics](#Side-Game-Mode-Mechanics)
 * [Summary](#summary)
-* [Contributing](#contributing)
+* [Mentions](#mentions)
 * [Contact](#contact)
 * [License](#license)
 
@@ -155,8 +155,11 @@ So you got to change your position and take shots quickly in order to win.
 
 
 
-## Contributing
-[github-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+## Mentions
+*Maciej Choromański - GAME TESTER - https://github.com/MaciejChoromanski
+
+*[Sources: Youtube/ue4 documentation/'Unreal Engine 4' Network Compendium]
+
 
 
 
