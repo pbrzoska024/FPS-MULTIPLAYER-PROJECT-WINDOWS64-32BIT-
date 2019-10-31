@@ -24,7 +24,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-  * [Current Status](#current-stats)
+  * [Current Build Status](#current-build-status)
 * [MAP](#map)
   * [Scrennshots](#Scrennshots)
   * [Installation](#installation)
