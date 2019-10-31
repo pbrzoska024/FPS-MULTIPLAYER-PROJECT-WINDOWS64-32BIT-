@@ -59,10 +59,10 @@ Main game modes are going  to change.
 
 ### Current Build Status
 
-*13.09.2019 <-- Building main game mechanics    -->19.10.2019
-*19.10.2019 <-- Building first map   -->26.10.2019
-*26.10.2019 <-- Fixing server/client bugs   -->30.10.2019
-*30.10.2019 <-- Testing  -->??.10.2019
+*13.09.2019 <-- Building main game mechanics    -->19.10.2019()
+*19.10.2019 <-- Building first map   -->26.10.2019()
+*26.10.2019 <-- Fixing server/client bugs   -->30.10.2019()
+*30.10.2019 <-- Testing  -->??.10.2019()
 
 
 *First playable build is going to drop this week*
