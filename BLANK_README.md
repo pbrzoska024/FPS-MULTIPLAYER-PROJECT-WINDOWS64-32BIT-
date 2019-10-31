@@ -34,7 +34,7 @@
   * [Movement](#Movement)
   * [Hip-fire](#Hip-fire)
   * [ADS](#ADS)
-* [Roadmap](#roadmap)
+* [Main Game Mode Mechanics](#Main-Game-Mode-Mechanics)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -129,9 +129,13 @@ So you got to change your position and take shots quickly in order to win.
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Main Game Mode Mechanics
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+### Respawn
+[Deathmatch]Player respawns after clicking a button in a respawn location.
+
+### Objective
+[Deathmatch]Get 10 kills in order to win the game.
 
 
 
