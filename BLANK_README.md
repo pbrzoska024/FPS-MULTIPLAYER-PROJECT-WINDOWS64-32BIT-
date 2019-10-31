@@ -22,8 +22,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -35,7 +34,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    ![logo](https://user-images.githubusercontent.com/53401206/67944238-49bcd600-fbdc-11e9-8c73-04597b976df0.png)
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
