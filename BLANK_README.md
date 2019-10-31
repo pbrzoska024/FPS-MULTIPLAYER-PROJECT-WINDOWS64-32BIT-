@@ -48,12 +48,15 @@ Here's a blank template to get started:
 `github_username`, `repo`, `twitter_handle`, `email`
 
 
-### Built With
+### Built {mostly} With
 
-* []()
-* []()
-* []()
+* [Unreal Engine 4.23]()
+* [UE4 AnimStarterPack]()
+* [UE4 NYC]()
+* [FPS WEAPON_BUNDLE]
+* ...
 
+*May change in the future so there is no need to write every pack or asset*
 
 
 <!-- GETTING STARTED -->
