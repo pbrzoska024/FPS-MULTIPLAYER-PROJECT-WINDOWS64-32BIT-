@@ -30,7 +30,10 @@
 * [MAP](#map)
   * [Scrennshots](#Scrennshots)
   * [Installation](#installation)
-* [Usage](#usage)
+* [Main Game Mechanics](#main-game-mechanics)
+  * [Movement](#Movement)
+  * [Hip-fire](#Hip-fire)
+  * [ADS](#ADS)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -79,6 +82,8 @@ Cyberpunk style arena with main place, 4 respawn locations and an underground tu
 <img src="images/mapka.png">
 <img src="images/mapka1.png">
 <img src="images/mapka2.png">
+<img src="images/mapka3.png">
+<img src="images/mapka4.png">
 
 ### Installation
  
@@ -87,13 +92,17 @@ Cyberpunk style arena with main place, 4 respawn locations and an underground tu
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+## Main Game Mechanics
 
 
+
+### Movement
+
+
+### Shooting
+
+
+### ADS
 
 <!-- ROADMAP -->
 ## Roadmap
