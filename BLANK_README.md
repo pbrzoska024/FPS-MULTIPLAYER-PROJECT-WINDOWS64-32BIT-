@@ -36,7 +36,7 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Summary](#summary)
 
 
 
@@ -48,6 +48,7 @@ Game is using steam connection plugin.
 *server/client game structure, player number depend on map size and main game mode*
 
 Main game modes are going  to change.
+More content will come as the time passes.
 
 ### Built With
 
@@ -135,43 +136,39 @@ So you got to change your position and take shots quickly in order to win.
 ### Objective
 [Deathmatch]Get 10 kills in order to win the game.
 
+### Hitmark System
+[Deathmatch]headshot-[100]hp
+[Deathmatch]upper body-[65-75]hp
+[Deathmatch]torso-[50-60]hp
+[Deathmatch]arms/legs-[25-30]hp
+[Deathmatch]foot/fingers-[10-15]hp
+
+*probably will chenge after the testing ends*
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- CONTACT -->
+## Contact
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Your Name - Paweł Brzóska
+Email - pbrzoska024@gmail.com
+Facebook - https://www.facebook.com/profile.php?id=100002540185841
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Project Link: [https://github.com/pbrzoska024/FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-](https://github.com/pbrzoska024/FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-)
 
+
+
+<!-- Summary -->
+## Sumary
+
+* []()
+* []()
+* []()
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/pbrzoska024/FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-](https://github.com/pbrzoska024/FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
