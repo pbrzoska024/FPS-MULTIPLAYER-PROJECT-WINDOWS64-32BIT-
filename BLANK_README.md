@@ -42,14 +42,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-First person shooter game which can handle multiplayer match with at least 2 online players.
-Game is using steam connection plugin. 
-
+First-person shooter game which can handle multiplayer match with at least 2 online players.
+Game is using steam connection plugin.
 *server/client game structure, player number depend on map size and main game mode*
-
-Main game modes are going  to change.
-More content will come as the time passes.
-
+The main game modes are going to change. More content will come as time passes.
 ### Built With
 
 * [Unreal Engine 4.23]()
@@ -58,7 +54,7 @@ More content will come as the time passes.
 * [FPS WEAPON_BUNDLE]()
 * ...
 
-*May change in the future so there is no need to write every pack or asset*
+*May change in the future, so there is no need to write every pack or asset*
 
 ### Current Build Status
 
@@ -105,20 +101,19 @@ Use C to crouch.
 
 
 ### Hip-fire
-Hip-firing is not really accurate and precise to encourge player to use more ADS system.
+Hip-firing is not accurate and precise to encourage players to use more ADS system.
 When moving, recoil system mix shots far away from the center.
-More stable position equals better aim wher firing.
+A more stable position equals better aim when firing.
 
 
 ![](images/GAME3.gif)
 
 
 ### ADS
-When you aim down sight you have got 100% precised shot.
+When you aim down sight you have got 100% accurate shot.
 What's the catch?
 While aiming you can't move.
-So you got to change your position and take shots quickly in order to win.
-
+So you got to change your position and take shots quickly to win.
 
 
 ![](images/GAME4.gif)
