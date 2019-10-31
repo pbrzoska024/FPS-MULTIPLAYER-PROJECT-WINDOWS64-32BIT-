@@ -97,14 +97,21 @@ Cyberpunk style arena with main place, 4 respawn locations and an underground tu
 
 
 ### Movement
-Use W/A/S/D to control character movement
+Use W/A/S/D to control character movement.
+Use Shift to Sprint.
+
+
 ![](images/GAME2.gif)
-Shift to Sprint
+
 
 ### Shooting
 Hip-firing is not really accurate and precise to encourge player to use more ADS system.
 When moving, recoil system mix shots far away from the center.
 More stable position equals better aim wher firing.
+
+
+![](images/GAME3.gif)
+
 
 ### ADS
 
