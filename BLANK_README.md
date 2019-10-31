@@ -42,6 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 First person shooter game which can handle multiplayer match with at least 2 online players.
+Game is using steam connection plugin. 
 
 *server/client game structure, player number depend on map size and main game mode*
 
@@ -75,22 +76,13 @@ Cyberpunk style arena with main place, 4 respawn locations and an underground tu
 
 ### Scrennshots
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+<img src="images/mapka.png">
+<img src="images/mapka1.png">
+<img src="images/mapka2.png">
 
 ### Installation
  
-1. Clone the repo
-```sh
-git clone https:://github.com/github_username/repo.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
+* blank for now/ testing *
 
 
 
