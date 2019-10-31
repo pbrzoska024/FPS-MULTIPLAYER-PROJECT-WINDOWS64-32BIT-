@@ -34,7 +34,7 @@
   * [Movement](#Movement)
   * [Hip-fire](#Hip-fire)
   * [ADS](#ADS)
-* [Main Game Mode Mechanics](#Main-Game-Mode-Mechanics)
+* [Side Game Mode Mechanics](#Side-Game-Mode-Mechanics)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -129,7 +129,7 @@ So you got to change your position and take shots quickly in order to win.
 
 
 <!-- ROADMAP -->
-## Main Game Mode Mechanics
+## Side Game Mode Mechanics
 
 ### Respawn
 [Deathmatch]Player respawns after clicking a button in a respawn location.
