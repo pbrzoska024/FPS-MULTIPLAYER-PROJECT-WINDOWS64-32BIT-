@@ -30,7 +30,7 @@
   * [Installation](#installation)
 * [Main Game Mechanics](#main-game-mechanics)
   * [Movement](#Movement)
-  * [Hip-fire](#Hip-fire)
+  * [Hip-fire](#hip-fire)
   * [ADS](#ADS)
 * [Side Game Mode Mechanics](#Side-Game-Mode-Mechanics)
 * [Summary](#summary)
@@ -104,7 +104,7 @@ Use C to crouch.
 ![](images/GAME2.gif)
 
 
-### Shooting
+### Hip-fire
 Hip-firing is not really accurate and precise to encourge player to use more ADS system.
 When moving, recoil system mix shots far away from the center.
 More stable position equals better aim wher firing.
