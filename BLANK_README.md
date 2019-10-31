@@ -99,6 +99,7 @@ Cyberpunk style arena with main place, 4 respawn locations and an underground tu
 ### Movement
 Use W/A/S/D to control character movement.
 Use Shift to Sprint.
+Use C to crouch.
 
 
 ![](images/GAME2.gif)
@@ -114,6 +115,18 @@ More stable position equals better aim wher firing.
 
 
 ### ADS
+When you aim down sight you have got 100% precised shot.
+What's the catch?
+While aiming you can't move.
+So you got to change your position and take shots quickly in order to win.
+
+
+
+![](images/GAME4.gif)
+
+
+
+
 
 <!-- ROADMAP -->
 ## Roadmap
