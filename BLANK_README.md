@@ -65,7 +65,7 @@ Main game modes are going  to change.
 * [30.10.2019 <-- Testing  -->??.10.2019]
 
 
-*First playable build is going to drop this week*
+*First playable build is going to drop within a week*
 
 <!-- GETTING STARTED -->
 ## Map
