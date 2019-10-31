@@ -26,7 +26,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
+* [MAP](#map)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
@@ -41,11 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
 
 
 ### Built {mostly} With
@@ -53,14 +49,14 @@ Here's a blank template to get started:
 * [Unreal Engine 4.23]()
 * [UE4 AnimStarterPack]()
 * [UE4 NYC]()
-* [FPS WEAPON_BUNDLE]
+* [FPS WEAPON_BUNDLE]()
 * ...
 
 *May change in the future so there is no need to write every pack or asset*
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Map
 
 To get a local copy up and running follow these simple steps.
 
