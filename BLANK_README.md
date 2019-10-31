@@ -34,13 +34,12 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    ![logo](https://user-images.githubusercontent.com/53401206/67944238-49bcd600-fbdc-11e9-8c73-04597b976df0.png)
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+   README
     <br />
     <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
     <br />
