@@ -149,8 +149,8 @@ So you got to change your position and take shots quickly in order to win.
 <!-- Summary -->
 ## Sumary
 
-* [TESTING]()
-* [If you are working on other intresting projects and  you are looking for people to fill in please let me know]()
+* [TESTING]
+* [If you are working on other intresting projects and  you are looking for people to fill in please let me know]
 
 
 
