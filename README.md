@@ -48,10 +48,10 @@ Game is using steam connection plugin.
 The main game modes are going to change. More content will come as time passes.
 ### Built With
 
-* [Unreal Engine 4.23]()
-* [UE4 AnimStarterPack]()
-* [UE4 NYC]()
-* [FPS WEAPON_BUNDLE]()
+* [Unreal Engine 4.23]
+* [UE4 AnimStarterPack]
+* [UE4 NYC]
+* [FPS WEAPON_BUNDLE]
 * ...
 
 *May change in the future, so there is no need to write every pack or asset*
