@@ -64,7 +64,7 @@ The main game modes are going to change. More content will come as time passes.
 * [30.10.2019 <-- Testing  -->??.10.2019]
 
 
-*First playable build is going to drop within a week*
+*First playable build is going to drop within a month*
 
 <!-- GETTING STARTED -->
 ## Map
