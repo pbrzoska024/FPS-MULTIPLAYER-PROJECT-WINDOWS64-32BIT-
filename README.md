@@ -77,11 +77,10 @@ Cyberpunk style arena with main place, 4 respawn locations and an underground tu
 
 ### Scrennshots
 
-<img src="images/mapka.png">
-<img src="images/mapka1.png">
-<img src="images/mapka2.png">
-<img src="images/mapka3.png">
-<img src="images/mapka4.png">
+<img src="images/newmap1.png">
+<img src="images/newmap.png">
+<img src="images/newmap2.png">
+<img src="images/HighresScreenshot00005.png">
 
 ### Installation
  
