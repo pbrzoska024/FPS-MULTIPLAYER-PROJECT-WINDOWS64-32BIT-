@@ -15,8 +15,8 @@
   <h3 align="center">FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-</h3>
 
   <p align="center">
-  GAME DESIGN DOCUMENT
-   R E A D M E
+  GAME DESIGN DOCUMENT/README
+   
 
 
 
