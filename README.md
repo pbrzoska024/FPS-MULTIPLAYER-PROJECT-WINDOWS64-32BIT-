@@ -40,8 +40,9 @@
 * [License](#license)
 
 ## News
+* 25.11.2019
 * [Map ground level rebuild/updated scrennshots]
-* [25.11.2019 <-- Fixing Steam Sessions Connection System -->??.11.2019]
+* [Fixing Steam Sessions Connection System]
 
 
 <!-- ABOUT THE PROJECT -->
