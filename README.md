@@ -62,10 +62,12 @@ The main game modes are going to change. More content will come as time passes.
 * [13.09.2019 <-- Building main game mechanics    -->19.10.2019]
 * [19.10.2019 <-- Building first map   -->26.10.2019]
 * [26.10.2019 <-- Fixing server/client bugs   -->30.10.2019]
-* [30.10.2019 <-- Testing  -->??.10.2019]
+* [23.11.2019 First playable alpha build deployment]
+* [23.11.2019 <-- Map rebuild   -->25.11.2019]
+* [25.11.2019 <-- Fixing Steam Sessions Connection System -->??.11.2019]
 
 
-*First playable build is going to drop within a month*
+*First playable beta build is going to drop within a month*
 
 <!-- GETTING STARTED -->
 ## Map
