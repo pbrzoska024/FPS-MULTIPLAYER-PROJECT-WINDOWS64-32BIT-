@@ -21,7 +21,7 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-
+* [News](#news)
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
   * [Current Build Status](#current-build-status)
