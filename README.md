@@ -76,7 +76,6 @@ The main game modes are going to change. More content will come as time passes.
 * [22.12.2019 <-- Test version]
 
 
-*First playable beta build is going to drop within a month*
 
 <!-- GETTING STARTED -->
 ## Map
