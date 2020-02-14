@@ -40,9 +40,7 @@
 * [License](#license)
 
 ## News
-* 25.11.2019
-* [Map ground level rebuild/updated scrennshots]
-* [Fixing Steam Sessions Connection System]
+*[22.12.2019 <-- Test version]
 
 
 <!-- ABOUT THE PROJECT -->
@@ -63,12 +61,19 @@ The main game modes are going to change. More content will come as time passes.
 
 ### Current Build Status
 
+*[Finished simple UI and fixed connection problems]
+*[Not enough pc's to test,optimze :C]
+
+
+
+### Old Build Status
 * [13.09.2019 <-- Building main game mechanics    -->19.10.2019]
 * [19.10.2019 <-- Building first map   -->26.10.2019]
 * [26.10.2019 <-- Fixing server/client bugs   -->30.10.2019]
 * [23.11.2019 First playable alpha build deployment]
 * [23.11.2019 <-- Map rebuild   -->25.11.2019]
 * [25.11.2019 <-- Fixing Steam Sessions Connection System -->??.11.2019]
+* [22.12.2019 <-- Test version]
 
 
 *First playable beta build is going to drop within a month*
