@@ -71,10 +71,10 @@ Builded as a test/template project, used for academic purposes.
 * [19.10.2019 <-- Building first map   -->26.10.2019]
 * [26.10.2019 <-- Fixing server/client bugs   -->30.10.2019]
 * [23.11.2019 First playable alpha build deployment]
-* [23.11.2019 <-- Map rebuild   -->25.11.2019]
 * [25.11.2019 <-- Fixing Steam Sessions Connection System -->??.11.2019]
 * [22.12.2019 <-- Test version]
-* [03.05.2020 MAP REBUILD]
+* [03.05.2020 <-- Map rebuild   -->25.05.2020]
+
 
 
 <!-- GETTING STARTED -->
