@@ -143,7 +143,7 @@ So you got to change your position and take shots quickly to win.
 
 ## Team
 *Paweł Brzóska - Programming/Testing
-*Maciej Krecik Adamczak - Game Design/Level Designer/
+*Maciej Adamczak - Game Design/Level Designer/
 
 <!-- Summary -->
 ## Sumary
