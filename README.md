@@ -40,7 +40,7 @@
 * [License](#license)
 
 ## News
-*[Map rebuild by Maciej Krecik Adamaczak]
+*[New map rebuild by Maciej Krecik Adamaczak]
 
 
 <!-- ABOUT THE PROJECT -->
@@ -52,28 +52,20 @@ First-person shooter multiplayer game template playable with
 - Nintendo Switch (after port using dev kit)
 - Android/IOS (Only after high optimization)
 which can handle multiplayer match with at least 2 online players.
-Builded as a test project, used for academic purposes.
+Builded as a test/template project, used for academic purposes.
 
 
 
 ### Technology, built with
 
+* [C++]
 * [Unreal Engine 4.23]
 * [Visual Studio 2017]
-* [UE4 AnimStarterPack]
-* [UE4 NYC]
-* [FPS WEAPON_BUNDLE]
-* ...
+* [Steam[[PC VERSION]]
 
-*May change in the future, so there is no need to write every pack or asset*
 
 ### Current Build Status
-
-*[Finished simple UI and fixed connection problems]
-*[Not enough pc's to test,optimze :C]
-
-
-
+*Map being rebuilded
 ### Old Build Status
 * [13.09.2019 <-- Building main game mechanics    -->19.10.2019]
 * [19.10.2019 <-- Building first map   -->26.10.2019]
@@ -82,13 +74,13 @@ Builded as a test project, used for academic purposes.
 * [23.11.2019 <-- Map rebuild   -->25.11.2019]
 * [25.11.2019 <-- Fixing Steam Sessions Connection System -->??.11.2019]
 * [22.12.2019 <-- Test version]
-
+* [03.05.2020 MAP REBUILD]
 
 
 <!-- GETTING STARTED -->
 ## Map
 
-Cyberpunk style arena with main place, 4 respawn locations and an underground tunnel.
+*New Map is going to be builded and designed
 
 
 ### Scrennshots
@@ -143,11 +135,7 @@ So you got to change your position and take shots quickly to win.
 <!-- ROADMAP -->
 ## Side Game Mode Mechanics
 
-### Respawn
-*[Deathmatch]Player respawns after clicking a button in a respawn location.
 
-### Objective
-*[Deathmatch]Get 10 kills in order to win the game.
 
 ### Hitmark System
 * [Deathmatch]headshot-[100]hp
@@ -156,30 +144,18 @@ So you got to change your position and take shots quickly to win.
 * [Deathmatch]arms/legs-[25-30]hp
 * [Deathmatch]foot/fingers-[10-15]hp
 
-*probably will chenge after the testing ends*
 ## Team
-Paweł Brzóska - Programming/Testing
-Maciej Krecik Adamczak - Game Design/Level Designer
+*Paweł Brzóska - Programming/Testing
+*Maciej Krecik Adamczak - Game Design/Level Designer/
 
 <!-- Summary -->
 ## Sumary
 
-* [TESTING]
-
-
-
-
+* [Map rebuild, testing]
 
 ## Mentions
 *Michał Tessar - GAME TESTER -
 *Maciej Choromański - GAME TESTER - https://github.com/MaciejChoromanski
-
-
-*[Sources: Youtube/ue4 documentation/'Unreal Engine 4' Network Compendium]
-
-
-
-
 
 
 ## Contact
