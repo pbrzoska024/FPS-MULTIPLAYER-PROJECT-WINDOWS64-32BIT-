@@ -85,10 +85,7 @@ Builded as a test/template project, used for academic purposes.
 
 ### Scrennshots
 
-<img src="images/newmap1.png">
-<img src="images/newmap.png">
-<img src="images/newmap2.png">
-<img src="images/HighresScreenshot00005.png">
+*New Map is going to be builded and designed
 
 ### Installation
  
