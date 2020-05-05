@@ -40,18 +40,26 @@
 * [License](#license)
 
 ## News
-*[22.12.2019 <-- Test version]
+*[Map rebuild by Maciej Krecik Adamaczak]
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-First-person shooter game which can handle multiplayer match with at least 2 online players.
-Game is using steam connection plugin.
-*server/client game structure, player number depend on map size and main game mode*
-The main game modes are going to change. More content will come as time passes.
-### Built With
+
+First-person shooter multiplayer game template playable with
+- Windows desktop computers (tested working version)
+- PS4 (after port using dev kit)
+- Nintendo Switch (after port using dev kit)
+- Android/IOS (Only after high optimization)
+which can handle multiplayer match with at least 2 online players.
+Builded as a test project, used for academic purposes.
+
+
+
+### Technology, built with
 
 * [Unreal Engine 4.23]
+* [Visual Studio 2017]
 * [UE4 AnimStarterPack]
 * [UE4 NYC]
 * [FPS WEAPON_BUNDLE]
@@ -149,19 +157,23 @@ So you got to change your position and take shots quickly to win.
 * [Deathmatch]foot/fingers-[10-15]hp
 
 *probably will chenge after the testing ends*
-
+## Team
+Paweł Brzóska - Programming/Testing
+Maciej Krecik Adamczak - Game Design/Level Designer
 
 <!-- Summary -->
 ## Sumary
 
 * [TESTING]
-* [If you are working on other intresting projects and  you are looking for people to fill in please let me know]
+
 
 
 
 
 ## Mentions
+*Michał Tessar - GAME TESTER -
 *Maciej Choromański - GAME TESTER - https://github.com/MaciejChoromanski
+
 
 *[Sources: Youtube/ue4 documentation/'Unreal Engine 4' Network Compendium]
 
