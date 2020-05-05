@@ -40,7 +40,7 @@
 * [License](#license)
 
 ## News
-*[New map rebuild by Maciej Krecik Adamaczak]
+*[New map rebuild by Maciej Adamaczak]
 
 
 <!-- ABOUT THE PROJECT -->
