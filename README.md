@@ -25,7 +25,8 @@
 
 * [Characteristics and purpose of the project](#about-the-project)
   * [Built With](#built-with)
-  * [Current Build Status](#current-build-status)
+  * [Current Build Status](#current-build-status)  
+*[Requirements specification](Requirements)
 * [Software system architecture](#Software)
   * [Development Architecture](#Movement)
   * [Runtime Architecture](#Runtime)
@@ -84,9 +85,14 @@ Builded as a test/template project, used for academic purposes.
 
 
 <!-- GETTING STARTED -->
-## Map
+## Functionality
 
-*New Map is going to be builded and designed
+After enabling the application, the user will see a Mein Menu with fields, and remain in starting level with menu.
+*HOST SESSION   
+*JOIN SESSION  
+*QUIT
+
+
 
 
 ### Scrennshots
