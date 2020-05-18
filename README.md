@@ -22,7 +22,7 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [News](#purpose)
+
 * [Characteristics and purpose of the project](#about-the-project)
   * [Built With](#built-with)
   * [Current Build Status](#current-build-status)
@@ -38,8 +38,7 @@
    * [Test cases](#contact)
    * [Report on the implementation of test scenarios](#license)
 
-## News
-*[New map rebuild by Maciej Adamaczak]
+
 
 
 <!-- ABOUT THE PROJECT -->
