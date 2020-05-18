@@ -28,7 +28,6 @@
   * [Current Build Status](#current-build-status)  
 * [Requirements specification](Requirements)
   * [Functionality](#Functionality)
-  * [Non-functional requirements](Non-functional)
 * [Software system architecture](#Software)
   * [Development Architecture](#Development)
   * [Runtime Architecture](#Runtime)
@@ -43,7 +42,7 @@
 
 
 <!-- Characteristics and purpose of the project -->
-## About The Project
+## Characteristics and purpose of the project
 
 *  [  Main characteristics and purpose of the project
 is to create software, multiplayer game
@@ -124,8 +123,9 @@ and also a name of host if it exists
 * [Back]
 
 
-
-
+### Development Architecture
+* Development Architecture diagram *
+![](images/diagram.png)
 
 
 ### Scrennshots
