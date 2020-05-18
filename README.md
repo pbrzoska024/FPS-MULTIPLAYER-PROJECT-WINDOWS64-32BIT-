@@ -15,7 +15,7 @@
   <h3 align="center">MultiplayerFPS</h3>
 
   <p align="center">
-  GAME DESIGN DOCUMENT/README
+  PROJECT DOCUMENTATION
    
 
 
