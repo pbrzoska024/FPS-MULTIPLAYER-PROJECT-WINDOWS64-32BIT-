@@ -41,7 +41,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- Characteristics and purpose of the project -->
 ## About The Project
 
   Main characteristics and purpose of the project
