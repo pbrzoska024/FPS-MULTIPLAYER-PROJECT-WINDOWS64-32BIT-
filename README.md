@@ -147,29 +147,11 @@ So you got to change your position and take shots quickly to win.
 * [Deathmatch]arms/legs-[25-30]hp
 * [Deathmatch]foot/fingers-[10-15]hp
 
-## Team
-*Paweł Brzóska - Programming/Testing
-*Maciej Adamczak - Game Design/Level Designer/
 
 <!-- Summary -->
 ## Sumary
 
 * [Map rebuild, testing]
-
-## Mentions
-*Michał Tessar - GAME TESTER -
-*Maciej Choromański - GAME TESTER - https://github.com/MaciejChoromanski
-
-
-## Contact
-
-*Paweł Brzóska
-*Email - pbrzoska024@gmail.com
-*Facebook - https://www.facebook.com/profile.php?id=100002540185841
-
-*Project Link: [https://github.com/pbrzoska024/FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-](https://github.com/pbrzoska024/FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-)
-
-
 
 
 <!-- LICENSE -->
@@ -178,7 +160,13 @@ So you got to change your position and take shots quickly to win.
 The application was created by students of the University of Gdańsk in the field of IT and econometrics with a specialization in IT applications in business. The authors are Paweł Brzóska and Maciej Adamczak. The software license is fully open - MIT (Massachusetts Institute of Technology) from the FSF (Free Software Fundation) group.
 
 
+## Mentions
+*Michał Tessar - GAME TESTER -
+*Maciej Choromański - GAME TESTER - https://github.com/MaciejChoromanski
 
+## Team
+*Paweł Brzóska - Programming/Testing
+*Maciej Adamczak - Game Design/Level Designer/
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
