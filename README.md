@@ -26,9 +26,6 @@
 * [Characteristics and purpose of the project](#about-the-project)
   * [Built With](#built-with)
   * [Current Build Status](#current-build-status)
-* [Copyright](#Copyright)
-  * [Scrennshots](#Scrennshots)
-  * [Installation](#installation)
 * [Software system architecture](#Software)
   * [Development Architecture](#Movement)
   * [Runtime Architecture](#Runtime)
@@ -37,6 +34,7 @@
    * [Tests](#mentions)
    * [Test cases](#contact)
    * [Report on the implementation of test scenarios](#license)
+* [Copyright](#Copyright)
 
 
 
@@ -67,7 +65,9 @@ Builded as a test/template project, used for academic purposes.
 * [C++]
 * [Unreal Engine 4.23]
 * [Visual Studio 2017]
-* [Steam[[PC VERSION]]
+* [Steam API / conncetion plugins[[PC VERSION]]
+* [Free assets]
+
 
 
 ### Current Build Status
@@ -173,9 +173,9 @@ So you got to change your position and take shots quickly to win.
 
 
 <!-- LICENSE -->
-## License
+## Copyright
 
-Distributed under the MIT License. See `LICENSE` for more information.
+The application was created by students of the University of Gdańsk in the field of IT and econometrics with a specialization in IT applications in business. The authors are Paweł Brzóska and Maciej Adamczak. The software license is fully open - MIT (Massachusetts Institute of Technology) from the FSF (Free Software Fundation) group.
 
 
 
