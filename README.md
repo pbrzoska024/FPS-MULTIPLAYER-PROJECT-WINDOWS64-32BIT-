@@ -53,6 +53,10 @@ that is able to sustain stable connection.]
 within resources of dedicated server
 between all connceted players.]
 
+ [ Design and build clean
+ simple, playable level/map
+ for the software use.]
+
  Project template playable with
 - Windows desktop computers (tested working version)
 - PS4 (after port using dev kit)
@@ -66,7 +70,7 @@ Builded as a test/template project, used for academic purposes.
 ### Technology, built with
 
 * [C++]
-* [Unreal Engine 4.23]
+* [Unreal Engine 4.23.1]
 * [Visual Studio 2017]
 * [Steam API / conncetion plugins[[PC VERSION]]
 * [Free assets]
@@ -89,10 +93,15 @@ Builded as a test/template project, used for academic purposes.
 <!-- GETTING STARTED -->
 ## Functionality
 
-After enabling the application, the user will see a Mein Menu with fields, and remain in starting level with menu.
-[*HOST SESSION]   
-[*JOIN SESSION ] 
-[*QUIT]
+1 . After enabling the application,
+the user will see a Mein Menu with fields,
+and remain in starting level with menu.
+*[HOST SESSION]   
+*[JOIN SESSION ] 
+*[QUIT]
+
+2.1
+HOST SESSION - Opens new host session menu
 
 
 
