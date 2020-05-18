@@ -124,7 +124,16 @@ and also a name of host if it exists
 
 
 ### Development Architecture
-* Development Architecture diagram *
+  Software backend, was developed
+using Unreal Engine 4.23.1 and Visual Studio 2017(C++).
+  We used Scrum development aproach
+to accomplish all major funcionalities.
+  Map was designed in Blender
+then rebuilded in unreal.
+  For networking plugin we used
+steam advanced sesssions.
+
+*Network Development Architecture diagram *
 ![](images/diagram.png)
 
 
