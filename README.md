@@ -90,9 +90,9 @@ Builded as a test/template project, used for academic purposes.
 ## Functionality
 
 After enabling the application, the user will see a Mein Menu with fields, and remain in starting level with menu.
-*HOST SESSION   
-*JOIN SESSION  
-*QUIT
+[*HOST SESSION]   
+[*JOIN SESSION ] 
+[*QUIT]
 
 
 
