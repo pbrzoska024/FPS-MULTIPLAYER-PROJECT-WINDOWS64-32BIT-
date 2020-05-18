@@ -22,22 +22,21 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [News](#news)
-* [About the Project](#about-the-project)
+* [News](#purpose)
+* [Characteristics and purpose of the project](#about-the-project)
   * [Built With](#built-with)
   * [Current Build Status](#current-build-status)
-* [MAP](#map)
+* [Copyright](#Copyright)
   * [Scrennshots](#Scrennshots)
   * [Installation](#installation)
-* [Main Game Mechanics](#main-game-mechanics)
-  * [Movement](#Movement)
-  * [Hip-fire](#hip-fire)
-  * [ADS](#ADS)
-* [Side Game Mode Mechanics](#Side-Game-Mode-Mechanics)
-* [Summary](#summary)
-* [Mentions](#mentions)
-* [Contact](#contact)
-* [License](#license)
+* [Software system architecture](#Software)
+  * [Development Architecture](#Movement)
+  * [Runtime Architecture](#Runtime)
+  * [Side Game Mode Mechanics](#Side-Game-Mode-Mechanics)
+* [Tests](#summary)
+   * [Tests](#mentions)
+   * [Test cases](#contact)
+   * [Report on the implementation of test scenarios](#license)
 
 ## News
 *[New map rebuild by Maciej Adamaczak]
