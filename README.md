@@ -45,15 +45,15 @@
 <!-- Characteristics and purpose of the project -->
 ## About The Project
 
-[  Main characteristics and purpose of the project
+*  [  Main characteristics and purpose of the project
 is to create software, multiplayer game
 that is able to sustain stable connection.]
  
- [ Handle established gameplay 
+*  [ Handle established gameplay 
 within resources of dedicated server
 between all connceted players.]
 
- [ Design and build clean
+*  [ Design and build clean
  simple, playable level/map
  for the software use.]
 
@@ -96,32 +96,32 @@ Builded as a test/template project, used for academic purposes.
 1 . After enabling the application,
 the user will see a Mein Menu with fields,
 and remain in starting level with menu.
-*[MULTIPLAYER]    
-*[QUIT]
+* [MULTIPLAYER]    
+* [QUIT]
 
 2.1
 MULIPLYAER - Opens new  menu
 the user will see a Mein Menu with fields
-*[Create Server]    
-*[Search Server]
-*[back]
+* [Create Server]    
+* [Search Server]
+* [back]
 
 3.1
 Create Server - Opens new host session menu
 the user will see a Host Session Menu with fields
-*[ServerName[ USER INPUT]]    
-*[Slots] - How much players can join
-*[Method] - LAN connection method OR STEAM connection method
-*[Mode] - designed mode choice 
-*[Map] - designed map choice
-*[Back and Create]
+* [ServerName[ USER INPUT]]    
+* [Slots] - How much players can join
+* [Method] - LAN connection method OR STEAM connection method
+* [Mode] - designed mode choice 
+* [Map] - designed map choice
+* [Back and Create]
 
 3.2
 Search server - Opens new search session menu
 the user will see a Host Session Menu with fields
 and also a name of host if it exists
-*[Refresh/Find]
-*[Back]
+* [Refresh/Find]
+* [Back]
 
 
 
