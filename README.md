@@ -139,7 +139,7 @@ and also a name of host if it exists
 
 
 <!-- USAGE EXAMPLES -->
-## Main Game Mechanics
+## Main Game Mode Mechanics
 
 
 
