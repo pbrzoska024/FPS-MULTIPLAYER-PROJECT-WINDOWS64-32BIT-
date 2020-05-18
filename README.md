@@ -44,17 +44,15 @@
 <!-- Characteristics and purpose of the project -->
 ## About The Project
 
-  Main characteristics and purpose of the project
+[  Main characteristics and purpose of the project
 is to create software, multiplayer game
-that is able to sustain stable connection.
+that is able to sustain stable connection.]
  
-  Handle established gameplay 
+ [ Handle established gameplay 
 within resources of dedicated server
-between all connceted players.
+between all connceted players.]
 
-  
-
-First-person shooter multiplayer game template playable with
+ Project template playable with
 - Windows desktop computers (tested working version)
 - PS4 (after port using dev kit)
 - Nintendo Switch (after port using dev kit)
