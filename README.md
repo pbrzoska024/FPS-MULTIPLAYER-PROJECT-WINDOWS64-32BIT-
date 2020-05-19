@@ -68,7 +68,7 @@ Builded as a test/template project, used for academic purposes.
 
 ### Technology, built with
 
-* [C++]
+* [Blueprints]
 * [Unreal Engine 4.23.1]
 * [Visual Studio 2017]
 * [Steam API / conncetion plugins[[PC VERSION]]
