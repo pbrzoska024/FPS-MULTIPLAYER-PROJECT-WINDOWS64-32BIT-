@@ -188,9 +188,9 @@ Testing  LAN funcionality
 Environment: Windows based desktop PC, Windows based laptop,One WIFI area
 Application components tested:
 
--Lan Component Funcionality
--Stability of connceted devices
--UI 
+* Lan Component Funcionality
+* Stability of connceted devices
+* UI 
 
 Result: Both PC's connected running stable 
 
@@ -198,9 +198,9 @@ Testing  STEAM funcionality
 Environment: Windows based desktop PC, Windows based laptop,both on using diffrent Wifi
 Application components tested:
 
--Steam Component Funcionality
--Stability of connceted devices
--UI 
+* Steam Component Funcionality
+* Stability of connceted devices
+* UI 
 
 Result: Both PC's connected running stable 
 
