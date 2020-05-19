@@ -180,6 +180,29 @@ So you got to change your position and take shots quickly to win.
 ![](images/GAME4.gif)
 
 
+<!-- Tests -->
+### Tests
+Tests and report on the implementation of test scenarios.
+
+Testing  LAN funcionality
+Environment: Windows based desktop PC, Windows based laptop,One WIFI area
+Application components tested:
+
+-Lan Component Funcionality
+-Stability of connceted devices
+-UI 
+
+Result: Both PC's connected running stable 
+
+Testing  STEAM funcionality
+Environment: Windows based desktop PC, Windows based laptop,both on using diffrent Wifi
+Application components tested:
+
+-Steam Component Funcionality
+-Stability of connceted devices
+-UI 
+
+Result: Both PC's connected running stable 
 
 
 
