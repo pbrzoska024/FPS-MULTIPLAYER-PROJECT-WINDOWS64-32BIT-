@@ -139,10 +139,11 @@ steam advanced sesssions.
 
 ### Scrennshots
 
+![](images/MAP.png)
 *New Map is going to be builded and designed
 
 ### Installation
- 
+
 * blank for now/ testing *
 
 
