@@ -44,6 +44,8 @@
 <!-- Characteristics and purpose of the project -->
 ## Characteristics and purpose of the project
 
+https://www.youtube.com/watch?v=20Qj2slPjMg&feature=youtu.be
+
 *  [  Main characteristics and purpose of the project
 is to create software, multiplayer game
 that is able to sustain stable connection.]
